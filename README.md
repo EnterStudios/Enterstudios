@@ -1,4 +1,7 @@
 # StudioConsole
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/EnterStudios/Enterstudios.svg)](https://greenkeeper.io/)
+
 This application was generated using JHipster 5.1.0, you can find documentation and help at [https://www.jhipster.tech/documentation-archive/v5.1.0](https://www.jhipster.tech/documentation-archive/v5.1.0).
 
 This is a "uaa" application intended to be part of a microservice architecture, please refer to the [Doing microservices with JHipster][] page of the documentation for more information.
